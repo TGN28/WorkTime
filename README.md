@@ -17,11 +17,10 @@ WorkTime ist eine Anwendung zur Zeiterfassung, die es Benutzern ermöglicht, ihr
 
 Um mit der Entwicklung zu beginnen:
 
-1. **Technologie-Stack wählen**: Entscheide dich für eine Technologie (z.B. Python, Node.js, Java)
-2. **Projekt-Struktur erstellen**: Richte Ordner für Quellcode, Tests und Dokumentation ein
-3. **Datenmodell definieren**: Erstelle Modelle für Zeiteinträge, Projekte und Benutzer
-4. **Basisfunktionen implementieren**: Beginne mit der Zeiterfassung
-5. **Benutzeroberfläche entwickeln**: Web-Interface oder CLI
+1. **App ausprobieren**: Siehe [QUICKSTART.md](QUICKSTART.md) für eine 2-Minuten-Anleitung
+2. **Weitere Features**: Siehe [NEXT_STEPS.md](NEXT_STEPS.md) für geplante Erweiterungen
+3. **Technische Details**: Siehe [ARCHITECTURE.md](ARCHITECTURE.md) für Architektur-Übersicht
+4. **Mitwirken**: Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Contribution-Guidelines
 
 ## Installation
 
