@@ -3,18 +3,18 @@
 ## Phase 1: Grundlagen (Aktuell)
 - [x] Repository erstellen
 - [x] Basis-README erstellen
-- [ ] Technologie-Stack festlegen
-- [ ] Projekt-Struktur aufsetzen
-- [ ] Entwicklungsumgebung konfigurieren
+- [x] Technologie-Stack festlegen (Python gewählt)
+- [x] Projekt-Struktur aufsetzen
+- [x] Entwicklungsumgebung konfigurieren
 
 ## Phase 2: Kern-Funktionalität
 - [ ] Datenbank-Schema entwerfen
-- [ ] Datenmodelle implementieren
-  - [ ] Zeiteinträge (TimeEntry)
-  - [ ] Projekte (Project)
+- [x] Datenmodelle implementieren
+  - [x] Zeiteinträge (TimeEntry)
+  - [ ] Projekte (Project) - Basis vorhanden
   - [ ] Benutzer (User)
-- [ ] CRUD-Operationen für Zeiteinträge
-- [ ] Basis-API oder CLI erstellen
+- [x] CRUD-Operationen für Zeiteinträge
+- [x] Basis-CLI erstellen
 
 ## Phase 3: Erweiterte Features
 - [ ] Projekt-Verwaltung
@@ -38,7 +38,7 @@
   - [ ] PDF-Export
 
 ## Phase 6: Tests und Qualität
-- [ ] Unit-Tests schreiben
+- [x] Unit-Tests schreiben
 - [ ] Integrationstests
 - [ ] CI/CD Pipeline einrichten
 - [ ] Code-Qualität sicherstellen (Linting, Formatting)
